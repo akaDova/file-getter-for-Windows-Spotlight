@@ -1,5 +1,5 @@
 /**
- * file renamer for Windows interesting
+ * file getter for Windows Spotlight
  * pulls directory with pictures to Desktop & transforms files to .jpg
  * © akaDova, 28.01.2018
  */
