@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/file_renamer.iml" filepath="$PROJECT_DIR$/file_renamer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/file-getter-for-Windows-Spotlight.iml" filepath="$PROJECT_DIR$/.idea/file-getter-for-Windows-Spotlight.iml" />
     </modules>
   </component>
 </project>

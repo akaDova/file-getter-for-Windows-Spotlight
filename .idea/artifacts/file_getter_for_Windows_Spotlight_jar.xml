@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="file-getter-for-Windows-Spotlight:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/file_getter_for_Windows_Spotlight_jar</output-path>
+    <root id="archive" name="file-getter-for-Windows-Spotlight.jar">
+      <element id="module-output" name="file-getter-for-Windows-Spotlight" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-test.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
